@@ -1,0 +1,2 @@
+# DDNS-Script-Update-your-DNS-records-to-the-latest-dynamic-IP-address-using-Python
+这是一个基于Python编写的DDNS脚本，它使用HTTP GET请求将您的DNS记录更新到最新的动态IP地址。该脚本可以轻松地集成到您的GitHub仓库中，以方便与其他人共享和协作。在使用此脚本之前，您需要安装Python和requests库，并在DDNS服务提供商注册并获取API密钥。使用此脚本可以节省您手动更新DNS记录的时间，而将其自动化处理，从而确保您的DNS记录始终指向最新的IP地址。
