@@ -64,5 +64,5 @@ else:
 2. `your-domain.com` :这个参数需要替换为您需要更新的域名。<br>
 3. `your-ip-address` :这个参数需要替换为您用于获取公网IP地址的API接口的URL。
 4. `api_url` :这个参数需要替换为您的DDNS服务提供商的API地址。
-5. `ip_address` : 这个参数需要替换为您获取到的动态IP地址。
+5. `ip_address` : 这个参数需要替换为您获取到的动态IP地址。   
 
